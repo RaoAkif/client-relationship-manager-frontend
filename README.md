@@ -1,15 +1,10 @@
-To update the project packages:
-```
-npm i @reduxjs/toolkit @testing-library/jest-dom @testing-library/react @testing-library/user-event eslint-config-airbnb eslint-plugin-react prop-types react react-dom react-redux react-router-dom react-scripts redux redux-logger redux-thunk web-vitals react-test-renderer
-```
-
-# Project Name
+# Client Relationship Manager
 
 > This repository contains React Redux Template.
 
 ## Get Started
- * [Netlify Live](https://PROJECT_NAME-raoakif.netlify.app/)
- * [Heroku Live](https://PROJECT_NAME-raoakif.herokuapp.com/)
+ * [Netlify Live](https://client_relationship_manager_frontend-raoakif.netlify.app/)
+ * [Heroku Live](https://client_relationship_manager_frontend-raoakif.herokuapp.com/)
 
 
 # Getting Started with Create React App
@@ -18,11 +13,11 @@ npm i @reduxjs/toolkit @testing-library/jest-dom @testing-library/react @testing
 
 ### Setup
 ```
-git clone git@github.com:RaoAkif/PROJECT_NAME.git
+git clone git@github.com:RaoAkif/client_relationship_manager_frontend.git
 ```
 ### Install
 ```
-cd PROJECT_NAME
+cd client_relationship_manager_frontend
 ```
 ```
 npm i
@@ -49,7 +44,7 @@ npm run build
 ```
 
 ### Deployment
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/PROJECT_NAME)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/client_relationship_manager_frontend)
 
 ## Authors
 
@@ -58,6 +53,30 @@ npm run build
 - GitHub: [@RaoAkif](https://github.com/RaoAkif)
 - Twitter: [@RaoAkif](https://twitter.com/RaoAkif)
 - LinkedIn: [RaoAkif](https://linkedin.com/in/RaoAkif)
+
+👤 **CONTRIBUTOR_NAME**
+
+- GitHub: [@CONTRIBUTOR_NAME](https://github.com/CONTRIBUTOR_NAME)
+- Twitter: [@CONTRIBUTOR_NAME](https://twitter.com/CONTRIBUTOR_NAME)
+- LinkedIn: [CONTRIBUTOR_NAME](https://linkedin.com/in/CONTRIBUTOR_NAME)
+
+👤 **CONTRIBUTOR_NAME**
+
+- GitHub: [@CONTRIBUTOR_NAME](https://github.com/CONTRIBUTOR_NAME)
+- Twitter: [@CONTRIBUTOR_NAME](https://twitter.com/CONTRIBUTOR_NAME)
+- LinkedIn: [CONTRIBUTOR_NAME](https://linkedin.com/in/CONTRIBUTOR_NAME)
+
+👤 **CONTRIBUTOR_NAME**
+
+- GitHub: [@CONTRIBUTOR_NAME](https://github.com/CONTRIBUTOR_NAME)
+- Twitter: [@CONTRIBUTOR_NAME](https://twitter.com/CONTRIBUTOR_NAME)
+- LinkedIn: [CONTRIBUTOR_NAME](https://linkedin.com/in/CONTRIBUTOR_NAME)
+
+👤 **CONTRIBUTOR_NAME**
+
+- GitHub: [@CONTRIBUTOR_NAME](https://github.com/CONTRIBUTOR_NAME)
+- Twitter: [@CONTRIBUTOR_NAME](https://twitter.com/CONTRIBUTOR_NAME)
+- LinkedIn: [CONTRIBUTOR_NAME](https://linkedin.com/in/CONTRIBUTOR_NAME)
 
 ## 🤝 Contributing
 
