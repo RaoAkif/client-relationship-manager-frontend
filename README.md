@@ -2,6 +2,12 @@
 
 > This repository contains React Redux Template.
 
+## During Frontend Development
+Use JSON data with the following command
+```
+npx json-server -p 3500 -w data/db.json
+```
+
 ## Get Started
  * [Netlify Live](https://client_relationship_manager_frontend-raoakif.netlify.app/)
  * [Heroku Live](https://client_relationship_manager_frontend-raoakif.herokuapp.com/)
