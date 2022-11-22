@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  width: 80%;
+  float: right;
+  height: 10vh;
+  background-color: white;
+  color: black;
+}
+
+#profile-pic {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  padding-right: 10px;
+}
+
+#drop-down {
+  padding-right: 10px;
+  color: #3378C2;
+}

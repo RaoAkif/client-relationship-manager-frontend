@@ -1,0 +1,14 @@
+.left-side-main {
+  float: left;
+  height: 100vh;
+  background: #6F26FF;
+  color: white;
+  width: 20%;
+}
+
+ul {
+  list-style: square;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
